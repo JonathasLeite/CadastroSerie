@@ -1,0 +1,16 @@
+C:\www\Catalogo\obj\Debug\net5.0\Catalogo.csproj.AssemblyReference.cache
+C:\www\Catalogo\obj\Debug\net5.0\Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\Catalogo\obj\Debug\net5.0\Catalogo.AssemblyInfoInputs.cache
+C:\www\Catalogo\obj\Debug\net5.0\Catalogo.AssemblyInfo.cs
+C:\www\Catalogo\obj\Debug\net5.0\Catalogo.csproj.CoreCompileInputs.cache
+C:\www\Catalogo\bin\Debug\net5.0\Catalogo.exe
+C:\www\Catalogo\bin\Debug\net5.0\Catalogo.deps.json
+C:\www\Catalogo\bin\Debug\net5.0\Catalogo.runtimeconfig.json
+C:\www\Catalogo\bin\Debug\net5.0\Catalogo.runtimeconfig.dev.json
+C:\www\Catalogo\bin\Debug\net5.0\Catalogo.dll
+C:\www\Catalogo\bin\Debug\net5.0\ref\Catalogo.dll
+C:\www\Catalogo\bin\Debug\net5.0\Catalogo.pdb
+C:\www\Catalogo\obj\Debug\net5.0\Catalogo.dll
+C:\www\Catalogo\obj\Debug\net5.0\ref\Catalogo.dll
+C:\www\Catalogo\obj\Debug\net5.0\Catalogo.pdb
+C:\www\Catalogo\obj\Debug\net5.0\Catalogo.genruntimeconfig.cache
